@@ -1,0 +1,16 @@
+,student_name,math_scores,chemistry_scores,information_technology_scores,physics_scores,division,total_score,average_score,status,character_grade,student_email
+0,Jay,20,32,34,6,A,92,23.0,fail,F,jay@gmail.com
+1,Aaryan,56,36,6,88,A,186,46.5,pass,D,aaryan@gmail.com
+2,Sahil,76,78,88,48,A,290,72.5,pass,B,sahil@gmail.com
+3,Riya,78,23,100,90,A,291,72.75,pass,B,riya@gmail.com
+4,Shubh,90,100,45,25,A,260,65.0,pass,C,shubh@gmail.com
+5,Jai,32,32,34,6,B,104,26.0,fail,F,jai@gmail.com
+6,Aryan,56,56,6,88,B,206,51.5,pass,C,aryan@gmail.com
+7,Firoz,76,75,48,58,B,257,64.25,pass,C,firoz@gmail.com
+8,Steve,78,23,100,90,B,291,72.75,pass,B,steve@gmail.com
+9,Rhea,90,10,45,25,B,170,42.5,pass,D,rhea@gmail.com
+10,Kareena,22,30,34,60,C,146,36.5,pass,D,kareena@gmail.com
+11,Alia,56,56,6,88,C,206,51.5,pass,C,alia@gmail.com
+12,Priyanka,76,78,98,58,C,310,77.5,pass,B,priyanka@gmail.com
+13,Shahrukh,78,23,100,90,C,291,72.75,pass,B,shahrukh@gmail.com
+14,Salman,90,100,40,25,C,255,63.75,pass,C,salman@gmail.com
